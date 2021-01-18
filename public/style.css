@@ -1,0 +1,62 @@
+*{
+    position: relative;
+}
+body{
+    height: 100vh;
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: url(https://media.istockphoto.com/photos/blue-background-picture-id500484950?b=1&k=6&m=500484950&s=170667a&w=0&h=e_amOHIvOMWVn6rMdaoC8sHx8_LbOnReBQ-NilNsvMc=);
+    /* background: url(background.jpg); */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.text{
+    font-style: oblique;
+    font-family: cursive;
+    color: aqua;
+}
+.enter{
+    background-color: chartreuse;
+    border-radius: 25%;
+    width: 200px;
+    height: 100px;
+    float: right;
+    border: none;
+}
+.btntext{
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+}
+.enter:hover{
+    background-color: white;
+}
+.view{
+    background-color: chartreuse;
+    border-radius: 25%;
+    width: 200px;
+    height: 100px;
+    float: left;
+    border: none;
+}
+.view:hover{
+    background-color: white;
+}
+.credit{
+    float: right;
+    margin-top: 250px;
+    color: white;
+}
+.contact{
+    float: left;
+    margin-top: 250px;
+    color: white;
+}

@@ -1,0 +1,113 @@
+body{
+    background: url(https://media.istockphoto.com/photos/blue-background-picture-id500484950?b=1&k=6&m=500484950&s=170667a&w=0&h=e_amOHIvOMWVn6rMdaoC8sHx8_LbOnReBQ-NilNsvMc=);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: auto;
+}
+.heading{
+    font-size: 300%;
+    color: aqua;
+    text-align: center;
+}
+.inputform{
+    margin-left: 32.25%;
+    max-width: 550px;
+    margin: auto;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10%;
+}
+.name{
+    color: white;
+    font-size: 150%;
+    text-align: left;
+    margin-left: 10%;
+}
+.namefeild{
+    background: transparent;
+    border-bottom-color: white;
+    color: white;
+    border-radius: 05px;
+    width: 150px;
+    margin: 50px;
+    margin-top: -40px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.email{
+    color: white;
+    font-size: 125%;
+    margin-top: -22.5%;
+    margin-left: 50%;
+}
+.emailfeild{
+    background: transparent;
+    border-bottom-color: white;
+    color: white;
+    width: 150px;
+    margin-top: -70px;
+    margin-left: 250px;
+    border-radius: 05px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.exp{
+    color: white;
+    margin-left: 5%;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.expenter{
+    background: transparent;
+    color: white;
+    border-bottom-color: white;
+    width: 480px;
+    height: 350px;
+    margin-top: -10px;
+    border-color: black;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 05px;
+    resize: none;
+}
+.inputbutton{
+    margin-left: 45%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 100%;
+    background-color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5%;
+    color: orange;
+    padding: 2%;
+    border: none;
+}
+.inputbutton:hover{
+    background-color: white;
+}
+.note{
+    color: grey;
+    margin-left: 250px;
+}
+.country{
+    color: white;
+    margin-left: 10%;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.countryfeild{
+    background: transparent;
+    border-bottom-color: white;
+    color: white;
+    border-radius: 05px;
+    width: 150px;
+    margin: 50px;
+    margin-top: -40px;
+    font-size: 15px;
+    font-family: fantasy;
+}

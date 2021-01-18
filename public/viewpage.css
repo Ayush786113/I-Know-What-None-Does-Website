@@ -1,0 +1,16 @@
+*{
+    background: url(https://media.istockphoto.com/photos/blue-background-picture-id500484950?b=1&k=6&m=500484950&s=170667a&w=0&h=e_amOHIvOMWVn6rMdaoC8sHx8_LbOnReBQ-NilNsvMc=);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: auto;
+    margin: auto;
+}
+li{
+    color: white;
+    border-style: double;
+    margin: 5%;
+    list-style: none;
+    border-style: ridge;
+}
